@@ -1,5 +1,12 @@
-## Hi there 👋
+## Hi there 👋 I'm Nilesh Madhav Shivpuje
 
+About Me
+🎓 Bachelor Of Engineering (B.E.) 2022 Batch
+👨‍💻 Over 2 Years of Experience
+📅 born on 26 Augest 1999
+
+Let's Connect!
+Feel free to reach out to me via https://www.linkedin.com/in/nilshiv/ for collaboration opportunities or just to say hi! 😊
 <!--
 **NilShiv/NilShiv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
